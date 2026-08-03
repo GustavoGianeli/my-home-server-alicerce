@@ -1,3 +1,5 @@
+<img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)
+
 # 🏛️ ***My Home Server (Alicerce)***
 ---
 
@@ -89,7 +91,7 @@ https://github.com/user-attachments/assets/0d0d069d-4e2d-4eef-abab-73f59b5440cf
 ---
 
 
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT - veja o arquivo .[LICENSE](LICENSE) para mais detalhes.
 
 Desenvolvido por: Gustavo Gianeli (The Seventh)
 
