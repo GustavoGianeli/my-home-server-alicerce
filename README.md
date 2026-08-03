@@ -1,6 +1,6 @@
 <img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)
 
-# 🏛️ ***My Home Server (Alicerce)***
+# 🏛️ ***My Home Server (Alicerce) V:1.0***
 ---
 
 🛠️ O **My Home Server (Alicerce)** foi idealizado para resolver a lacuna de manutenção e estabilidade do sistema base em servidores domésticos. Em vez de impor um ecossistema engessado, o projeto atua como um **alicerce resiliente e autônomo**: ele cuida da saúde do sistema, segurança de rede e integridade de hardware/software, permitindo que você rode o que quiser por cima (Docker, CasaOS, servidores de mídia, etc.) com total paz de espírito.
