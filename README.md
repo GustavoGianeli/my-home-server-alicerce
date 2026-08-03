@@ -5,8 +5,8 @@ Framework de infraestrutura e automação para servidores domésticos Linux. Con
 Instalação 
 
 ```bash
-git clone(https://github.com/GustavoGianeli/my-home-server-alicerce.git)
-cd my-home-server-alicerce
-chmod +x install-home-server.sh
+git clone(https://github.com/GustavoGianeli/my-home-server-alicerce.git) &&
+cd my-home-server-alicerce &&
+chmod +x install-home-server.sh &&
 sudo ./install-home-server.sh
 ```
