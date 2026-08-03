@@ -551,7 +551,7 @@ sudo ufw reload
 
 echo -e "\n${PINK_NEON}┌──────────────────────────────────────────────────────────────────────────────┐${CLR_RESET}"
 echo -e "${PINK_NEON}│                                                                              │${CLR_RESET}"
-echo -e "${PINK_NEON}│            ${GREEN_NEON}✔  A L I C E R C E   I N S T A L A D O   C O M   S U C E S S O !${CLR_RESET}${PINK_NEON}     │${CLR_RESET}"
+echo -e "${PINK_NEON}│          ${GREEN_NEON}✔  A L I C E R C E   I N S T A L A D O   C O M   S U C E S S O !${CLR_RESET}${PINK_NEON}     │${CLR_RESET}"
 echo -e "${PINK_NEON}│                                                                              │${CLR_RESET}"
 echo -e "${PINK_NEON}└──────────────────────────────────────────────────────────────────────────────┘${CLR_RESET}"
 echo -e ""
