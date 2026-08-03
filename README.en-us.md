@@ -93,3 +93,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Developed by: **Gustavo Gianeli (The Seventh)**
 
 *Computer Science Student & Linux Infrastructure Enthusiast.*
+
+⚠️ ​Language & Transparency Log: This documentation was originally created by me in Portuguese. Since I am a Computer Science student and currently an English beginner, about 80% of this README was translated and verified with AI assistance, then fully reviewed and adjusted by myself. Using technology every day to reach a global audience !⚠️
