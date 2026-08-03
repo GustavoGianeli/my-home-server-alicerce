@@ -1,6 +1,6 @@
  <img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)
 
- # 🏛️ ***My Home Server (Alicerce)***
+ # 🏛️ ***My Home Server (Alicerce) V:1.0***
 ---
 
 🛠️ **My Home Server (Alicerce)** was built to solve the maintenance and stability headaches of home server base systems. Instead of forcing a rigid ecosystem on you, it acts as a **resilient, self-managing foundation**: handling system health, network security, and core stability under the hood, so you can run whatever you want on top (Docker, CasaOS, media servers, etc.) with total peace of mind.
