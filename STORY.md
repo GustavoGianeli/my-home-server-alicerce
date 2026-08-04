@@ -1,3 +1,4 @@
+<img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)    
 # 📖 A História por Trás do Alicerce: Do Guarda-Roupa ao Servidor (alicerce) 
 
 "Por que pagar mensalidade de nuvem se a gente pode construir nossa própria infraestrutura em casa?"
