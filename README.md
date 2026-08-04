@@ -1,4 +1,6 @@
-<img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)   [História do alicerce](STORY.md) 
+<img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)  
+
+[História do alicerce](STORY.md) 
 
 # 🏛️ ***My Home Server (Alicerce) V:1.0***
 ---
