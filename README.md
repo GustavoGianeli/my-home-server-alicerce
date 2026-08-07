@@ -92,7 +92,10 @@ sudo ./install-home-server.sh
 https://github.com/user-attachments/assets/0d0d069d-4e2d-4eef-abab-73f59b5440cf
 
 ---
+## ** Meu servidor debian rodando com nextcloud**
+<img width="1067" height="492" alt="nextclaud 1" src="https://github.com/user-attachments/assets/3302e753-59f8-4b59-a869-899f46b569eb" />
 
+<img width="1082" height="512" alt="nextclaud 2" src="https://github.com/user-attachments/assets/c26defb7-83fe-467a-81b1-c84fdcbda723" />
 
 Este projeto está sob a licença MIT - veja o arquivo .[LICENSE](LICENSE) para mais detalhes.
 
