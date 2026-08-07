@@ -81,6 +81,12 @@ Como sou o primeiro e principal usuário do Alicerce (assim como de outros proje
 2. **Sistema de Alertas via Telegram:** Implementar um módulo de notificação automática. Se o script rodar às 2h da manhã de uma segunda-feira e encontrar uma falha de conexão ou erro crítico no `APT`, ele enviará uma mensagem direta no Telegram do usuário com o resumo do log e o local exato do erro.
 
 ---
+## ** Meu servidor debian rodando com nextcloud**
+<img width="1067" height="492" alt="nextclaud 1" src="https://github.com/user-attachments/assets/08ba3273-348b-45aa-824e-d9db06c0559d" />
+
+<img width="1082" height="512" alt="nextclaud 2" src="https://github.com/user-attachments/assets/785a0d4f-41e9-4261-9940-a1f7a8cf63ff" />
+
+
 
 **Desenvolvido com orgulho por:** Gustavo Gianeli (The Seventh)  
 *Estudante de Ciência da Computação & Entusiasta de Infraestrutura Linux.*
