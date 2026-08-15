@@ -43,15 +43,19 @@
 
 ---
 
-🚀 Instalação Rápida (One-Liner)
+## 🚀 Instalação Rápida (One-Liner)
 
-## **⚠️ Atenção: Pré-requisito de Conexão**
+## ⚠️ Atenção: Pré-requisito de Conexão
 
 ​Antes de executar o comando de instalação, prepare-se: durante o processo, um link do Tailscale será gerado no seu terminal.
-a. ​**Não feche o terminal**.
-b. **​Copie o link e abra no seu navegador.**
-c. ​**Realize o login no Tailscale para autorizar a máquina.**
 
+1. ​**Não feche o terminal**.
+
+2. **​Copie o link e abra no seu navegador.**
+
+3. **Realize o login no Tailscale para autorizar a máquina.**
+   
+​
 ​Por que isso é necessário? Isso criará uma VPN segura e exclusiva para o seu servidor, permitindo que você acesse sua máquina (via túnel privado) de qualquer lugar do mundo, mantendo tudo protegido. Sem este passo, **a instalação ficará pausada aguardando a autorização.⚠️**
 
 Para clonar o repositório, conceder permissão de execução e iniciar a instalação automatizada, abra o terminal do seu servidor e cole o comando abaixo:
