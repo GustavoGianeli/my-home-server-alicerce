@@ -44,6 +44,19 @@
 
 ## 🚀 Quick Install (One-Liner)
 
+## ⚠️ Warning: Connection Prerequisite
+
+​Before running the installation command, be prepared: during the process, a Tailscale link will be generated in your terminal.
+
+1. **Do not close the terminal.**
+
+2. **Copy the link and open it in your browser.**
+   
+3. **​Log in to Tailscale to authorize the machine.**
+   
+
+​Why is this necessary? This will create a secure, dedicated VPN for your server, allowing you to access your machine (via private tunnel) from anywhere in the world while keeping everything protected. Without this step, **the installation will remain paused waiting for authorization.⚠️**
+
 To clone the repository, set execution permissions, and kick off the automated setup, open your server terminal and paste the command below:
 
 ```bash
