@@ -50,7 +50,7 @@ Nenhuma solução pronta no mercado (como CasaOS ou distros de NAS pré-configur
 O nome **Alicerce** vem exatamente da sua função na construção civil: a estrutura invisível que fica por baixo de tudo, garantindo que a casa não caia, não importa o peso do telhado.
 
 O projeto foi pensado para ser a base de sustentação do hardware. Ele assume o trabalho pesado e chato de manutenção:
-- Cida da saúde do gerenciador de pacotes (`APT`).
+- Cuida da saúde do gerenciador de pacotes (`APT`).
 - Gerencia o espaço em disco para não estourar a capacidade.
 - Executa reboots de forma segura (sem derrubar transferências ativas).
 - Mantém o backup em dia (`Timeshift`) e o compartilhamento local de pé (`Samba`).
