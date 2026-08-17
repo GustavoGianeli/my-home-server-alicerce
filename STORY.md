@@ -75,18 +75,47 @@ Se o usuário quiser apenas um servidor de arquivos simples, o Alicerce entrega 
 
 Como sou o primeiro e principal usuário do Alicerce (assim como de outros projetos meus, como o `arch-update-full`), o desenvolvimento segue a filosofia *dogfooding*: eu evoluo o código conforme sinto necessidade no meu uso diário.
 
-
 ### Próximos Passos no Roadmap:
 1. **Polimento e Tratamento de Erros:** Correção contínua de bugs, melhorias em casos de borda e relatórios da comunidade.
 2. **Sistema de Alertas via Telegram:** Implementar um módulo de notificação automática. Se o script rodar às 2h da manhã de uma segunda-feira e encontrar uma falha de conexão ou erro crítico no `APT`, ele enviará uma mensagem direta no Telegram do usuário com o resumo do log e o local exato do erro.
 
 ---
-## ** Meu servidor debian rodando com nextcloud**
-<img width="1067" height="492" alt="nextclaud 1" src="https://github.com/user-attachments/assets/08ba3273-348b-45aa-824e-d9db06c0559d" />
 
-<img width="1082" height="512" alt="nextclaud 2" src="https://github.com/user-attachments/assets/785a0d4f-41e9-4261-9940-a1f7a8cf63ff" />
+## O Impacto Real: A Transformação da Casa e da Rede:
+Com o servidor **rodando de forma consistente sobre o Alicerce**, a infraestrutura doméstica passou por uma revolução prática, trazendo autonomia de dados, otimização de tráfego e alta disponibilidade.
 
+## Nuvem Privada e Soberania dos Dados:
+=> **Armazenamento Próprio: Cancelamento total de assinaturas de nuvem comercial (como Google Drive) em favor de uma nuvem privada com 3 TB de armazenamento exclusivo.**
 
+<img width="1067" height="492" alt="nextclaud 1" src="https://github.com/user-attachments/assets/02a11050-a44c-402d-b2b1-d71837918af2" />
 
+<img width="1082" height="512" alt="nextclaud 2" src="https://github.com/user-attachments/assets/e97fdba8-a5d2-49bd-a260-d6994e8462a8" />
+
+=> **Isolamento e Acesso Remoto Seguro: Implementação de uma instância isolada em container Docker do Nextcloud com 1 TB dedicado para uso familiar, integrada via Tailscale para acesso externo seguro e sem exposição direta de portas na internet.**
+
+## Serviços de Mídia e Compartilhamento Local:
+=> **Servidor Samba (SMB): Protocolo configurado para transferência rápida de arquivos e consumo direto de mídias/vídeos pela Smart TV da casa.**
+
+<img width="1402" height="180" alt="docker2" src="https://github.com/user-attachments/assets/9121bf03-454f-4198-a424-f3e4cba76f9a" />
+
+<img width="1392" height="717" alt="docker" src="https://github.com/user-attachments/assets/0402c1ff-4d73-4b75-99f8-eee6fb6d207d" />
+
+## Segurança e Filtragem de Tráfego na Rede:
+=> **DNS Centralizado com Pi-hole: O servidor recebeu IP fixo na rede local, e o roteador principal teve seus DNSs primário e secundário apontados diretamente para ele.**
+
+<img width="1370" height="857" alt="pihole" src="https://github.com/user-attachments/assets/ba2132b5-a028-489e-b46d-980f605a745e" />
+
+=> **Eficiência de Navegação: Redução drástica de tráfego indesejado, garantindo cerca de 70% de bloqueio de anúncios e rastreadores em todos os dispositivos da casa (celulares, PCs e Smart TV) de forma transparente.**
+
+https://github.com/user-attachments/assets/2f7ba41e-0d1e-4877-ac39-b53b75fb443c
+
+## Automação, Resiliência e Persistência do Sistema:
+=> **Recuperação Automática de Energia: BIOS programada para religamento automático da máquina assim que a energia é reestabelecida (Restore on AC Power Loss).**
+
+=> **Orquestração no Boot (Systemd + Docker): Configuração de dependências no boot do sistema. O systemd aguarda a inicialização do Debian e a montagem correta de todos os pontos de disco para, em seguida, subir os containers do Nextcloud e os serviços do Pi-hole.**
+
+=> **Zero Intervenção Manual: Alta persistência e resiliência — o ecossistema reinicia sozinho e restaura toda a rede e serviços sem necessidade de qualquer comando manual.**
+
+---
 **Desenvolvido com orgulho por:** Gustavo Gianeli (The Seventh)  
 *Estudante de Ciência da Computação & Entusiasta de Infraestrutura Linux.*
