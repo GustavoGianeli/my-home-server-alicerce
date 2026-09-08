@@ -112,6 +112,6 @@ https://github.com/user-attachments/assets/0d0d069d-4e2d-4eef-abab-73f59b5440cf
 
 Este projeto está sob a licença MIT - veja o arquivo .[LICENSE](LICENSE) para mais detalhes.
 
-Desenvolvido por: Gustavo Gianeli (The Seventh)
+Desenvolvido por: Gustavo Gianeli (𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)
 
 Estudante de Ciência da Computação & Entusiasta de Infraestrutura Linux.
