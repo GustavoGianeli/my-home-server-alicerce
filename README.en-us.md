@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/67c7bafd-6ae3-43d5-9a70-fcb66f7af01f
 ---
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Developed by: **Gustavo Gianeli (The Seventh)**
+Developed by: **Gustavo Gianeli (𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)**
 
 *Computer Science Student & Linux Infrastructure Enthusiast.*
 
