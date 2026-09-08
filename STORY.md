@@ -117,5 +117,5 @@ https://github.com/user-attachments/assets/2f7ba41e-0d1e-4877-ac39-b53b75fb443c
 => **Zero Intervenção Manual: Alta persistência e resiliência — o ecossistema reinicia sozinho e restaura toda a rede e serviços sem necessidade de qualquer comando manual.**
 
 ---
-**Desenvolvido com orgulho por:** Gustavo Gianeli (The Seventh)  
+**Desenvolvido com orgulho por:** Gustavo Gianeli (𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)  
 *Estudante de Ciência da Computação & Entusiasta de Infraestrutura Linux.*
