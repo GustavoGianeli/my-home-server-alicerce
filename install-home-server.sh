@@ -44,7 +44,7 @@ echo -e "${PINK_NEON}│                                                        
 echo -e "${PINK_NEON}└──────────────────────────────────────────────────────────────────────────────┘${CLR_RESET}"
 echo -e "${RED_NEON}V 1.0 ${CLR_RESET}"
 echo ""
-echo -e "${RED_NEON}By: 𝕿𝖍𝖊 𝖘𝖊𝖛𝖊𝖓𝖙𝖍${CLR_RESET}"
+echo -e "${RED_NEON}By: 𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍 ${CLR_RESET}"
 echo ""
 echo ""
 echo -e "${CYAN_NEON}Iniciando o processo de instalação do My Home Server...${CLR_RESET}"
