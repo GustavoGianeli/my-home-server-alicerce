@@ -69,9 +69,7 @@ sudo ./install-home-server.sh
 ```
 ---
 
-### **𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝓖𝓾𝓼𝓽𝓪𝓿𝓸 𝓖𝓲𝓪𝓷𝓮𝓵𝓲  (𝓣𝓱𝓮_ 𝓢𝓮𝓿𝓮𝓷𝓽𝓱)**  
-
-**" 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝓣𝓱𝓮_ 𝓢𝓮𝓿𝓮𝓷𝓽𝓱 — 𝓦𝓱𝓮𝓻𝓮 𝓲𝓷𝓽𝓮𝓰𝓻𝓲𝓽𝔂 𝓶𝓮𝓮𝓽𝓼 𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮. "**
+Created By: **Gustavo Gianeli(𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)**"
 
 ---
 
@@ -110,7 +108,7 @@ https://github.com/user-attachments/assets/0d0d069d-4e2d-4eef-abab-73f59b5440cf
 
 <img width="1082" height="512" alt="nextclaud 2" src="https://github.com/user-attachments/assets/c26defb7-83fe-467a-81b1-c84fdcbda723" />
 
-Este projeto está sob a licença MIT - veja o arquivo .[LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença GPL3 - veja o arquivo .[LICENSE](LICENSE) para mais detalhes.
 
 Desenvolvido por: Gustavo Gianeli (𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)
 
