@@ -68,9 +68,7 @@ sudo ./install-home-server.sh
 ```
 ---
 
-### **𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝓖𝓾𝓼𝓽𝓪𝓿𝓸 𝓖𝓲𝓪𝓷𝓮𝓵𝓲  (𝓣𝓱𝓮_ 𝓢𝓮𝓿𝓮𝓷𝓽𝓱)**  
-
-**" 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝓣𝓱𝓮_ 𝓢𝓮𝓿𝓮𝓷𝓽𝓱 — 𝓦𝓱𝓮𝓻𝓮 𝓲𝓷𝓽𝓮𝓰𝓻𝓲𝓽𝔂 𝓶𝓮𝓮𝓽𝓼 𝓹𝓮𝓻𝓯𝓸𝓻𝓶𝓪𝓷𝓬𝓮. "**
+Created By: **Gustavo Gianeli(𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)**"
 
 ---
 
@@ -104,7 +102,7 @@ sudo ./install-home-server.sh
 https://github.com/user-attachments/assets/67c7bafd-6ae3-43d5-9a70-fcb66f7af01f
 
 ---
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) file for details.
 
 Developed by: **Gustavo Gianeli (𝕿𝖍𝖊 S𝖊𝖛𝖊𝖓𝖙𝖍)**
 
