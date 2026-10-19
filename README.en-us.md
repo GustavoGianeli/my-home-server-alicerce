@@ -1,6 +1,8 @@
  <img src="https://flagcdn.com/16x12/us.png" alt="US"> [English (US)](README.en-us.md) | <img src="https://flagcdn.com/16x12/br.png" alt="BR">   [Português (BR)](README.md)
 
  # 🏛️ ***My Home Server (Alicerce) V:1.0***
+ <img width="1280" height="832" alt="my-home-server-alicerce-banner-preview" src="https://github.com/user-attachments/assets/80baabeb-45f9-424e-ba33-d75a07e47e5c" />
+
 
 [History of the foundation](STORY.md) 
 
